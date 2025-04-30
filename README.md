@@ -11,10 +11,6 @@
     <img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux&logoColor=00C6FF&color=161c1c" alt="Linux Badge" />
   </a>
 
-  <a href="https://archlinux.org">
-    <img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux&logoColor=00C6FF&color=161c1c" alt="Arch Linux Badge" />
-  </a>
-
   <a href="https://getfedora.org">
     <img src="https://img.shields.io/badge/DISTRO-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Badge" />
   </a>
