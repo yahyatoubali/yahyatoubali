@@ -12,7 +12,7 @@
   </a>
 
   <a href="https://getfedora.org">
-    <img src="https://img.shields.io/badge/DISTRO-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Badge" />
+    <img src="https://img.shields.io/badge/DISTRO-Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Badge" />
   </a>
 </div>
 
