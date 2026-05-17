@@ -20,7 +20,7 @@
 
 ## About Me
 
-I am **Yahya Toubali**, a **security researcher** and the **creator of NadiVPN**, a VPN service available on major app platforms.  
+I am **Yahya Toubali**, a **security researcher**  
 
 You can verify my public identity via:
 
@@ -29,4 +29,4 @@ You can verify my public identity via:
 - [GitHub](https://github.com/yahyatoubali)  
 - [Website](https://yahyatoubali.me) 
 
-I focus on cybersecurity, VPN development, and secure software solutions.
+I focus on cybersecurity, and secure software solutions.
