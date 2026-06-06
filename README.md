@@ -11,22 +11,44 @@
     <img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux&logoColor=00C6FF&color=161c1c" alt="Linux Badge" />
   </a>
 
-  <a href="https://getfedora.org">
+  <a href="https://archlinux.org">
     <img src="https://img.shields.io/badge/DISTRO-Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Badge" />
   </a>
 </div>
 
 ---
 
-## About Me
+## About me
 
-I am **Yahya Toubali**, a **security researcher**  
+Hi, I’m Yahya!
+I’m a security researcher specializing in low-level security, binary exploitation, and kernel fuzzing, with a heavy focus on the Linux kernel. 
 
-You can verify my public identity via:
+On the Internet, I am the founder of Nadicorp Ltd, where I build tools and research infrastructure at the intersection of security and automation. Currently, I'm working on **CrashWise** (an autonomous AI platform for fuzzing and crash triage) and maintaining **KernelBridge**.
 
-- [X/Twitter](https://x.com/YahyaToubali)  
-- [LinkedIn](https://www.linkedin.com/in/YahyaToubali)  
-- [GitHub](https://github.com/yahyatoubali)  
-- [Website](https://yahyatoubali.me) 
+You can find me at:
+* [Website](https://yahyatoubali.me)
+* [X / Twitter](https://x.com/YahyaToubali)
+* [LinkedIn](https://www.linkedin.com/in/YahyaToubali)
+* [GitHub](https://github.com/yahyatoubali)
 
-I focus on cybersecurity, and secure software solutions.
+---
+
+## Tools & skills
+
+I enjoy using and working on:
+* **Linux** and anything related to low-level systems (Kernel internals, fuzzing, memory management)
+* **C / C++** and **Rust**
+* **IDA Pro** for deep reverse engineering
+* **Fuzzing tools**: libFuzzer, AFL++, and static analysis tools like Smatch
+* **Infrastructure**: Cloudflare stack, serverless architectures, and data warehousing
+
+On a daily basis, I use **Arch Linux** with **Hyprland** as my compositor. If you're curious about my setup, you can check out my dotfiles.
+
+---
+
+## Hobbies
+
+* **Low-level security research** & digging into kernel bug hunting
+* **Cognitive training** & tracking brain hacking protocols (currently building Brain Hub v2 to optimize spatial memory and pattern recognition)
+* **Tactical gaming** (CS2, Valorant, Rainbow Six Siege) & mastering **FC 26**
+* **Learning & Language Acquisition** (deep diving into Russian language and culture)
