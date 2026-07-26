@@ -23,7 +23,7 @@
 Hi, I’m Yahya!
 I’m a security researcher specializing in low-level security, binary exploitation, and kernel fuzzing, with a heavy focus on the Linux kernel. 
 
-On the Internet, I am the founder of Nadicorp Ltd, where I build tools and research infrastructure at the intersection of security and automation. Currently, I'm working on **CrashWise** (an autonomous AI platform for fuzzing and crash triage) and maintaining **KernelBridge**.
+On the Internet, I am the founder of Nadicorp Ltd, where I build tools and research infrastructure at the intersection of security and automation. Currently, I'm working on **CrashWise** (an autonomous AI platform for fuzzing and crash triage).
 
 You can find me at:
 * [Website](https://yahyatoubali.me)
