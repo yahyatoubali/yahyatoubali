@@ -38,11 +38,10 @@ You can find me at:
 I enjoy using and working on:
 * **Linux** and anything related to low-level systems (Kernel internals, fuzzing, memory management)
 * **C / C++** and **Rust**
-* **IDA Pro** for deep reverse engineering
+* **IDA Pro** or **Ghidra** for deep reverse engineering
 * **Fuzzing tools**: libFuzzer, AFL++, and static analysis tools like Smatch
-* **Infrastructure**: Cloudflare stack, serverless architectures, and data warehousing
 
-On a daily basis, I use **Arch Linux** with **Hyprland** as my compositor. If you're curious about my setup, you can check out my dotfiles.
+On a daily basis, I use **Arch Linux** with **Hyprland** as my compositor.
 
 ---
 
