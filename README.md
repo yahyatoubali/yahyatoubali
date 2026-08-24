@@ -1,53 +1,59 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00C6FF&center=true&width=435&repeat=false&lines=%F0%9F%91%8B+Hey%2C+it's+Yahya+Toubali!+%F0%9F%91%8B" alt="Hello it's YahyaToubali" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00C6FF&center=true&width=435&repeat=false&lines=%F0%9F%91%8B+Hey%2C+it's+Yahya+Toubali!+%F0%9F%91%8B" alt="Yahya Toubali Security Researcher" />
 
   <a href="https://github.com/yahyatoubali">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=yahyatoubali&theme=darkmode&data=followers,repositories,stars,commits" alt="YahyaToubali Profile WidgetBox">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=yahyatoubali&theme=darkmode&data=followers,repositories,stars,commits" alt="Yahya Toubali GitHub Stats">
   </a>
 
   <br><br>
 
   <a href="https://www.linux.org">
-    <img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux&logoColor=00C6FF&color=161c1c" alt="Linux Badge" />
+    <img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux&logoColor=00C6FF&color=161c1c" alt="Linux OS" />
   </a>
-
   <a href="https://archlinux.org">
-    <img src="https://img.shields.io/badge/DISTRO-Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Badge" />
+    <img src="https://img.shields.io/badge/DISTRO-Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux Distro" />
   </a>
 </div>
 
 ---
 
-## About me
+# Yahya Toubali
 
-Hi, I’m Yahya Toubali!
-I’m a security researcher specializing in low-level security, binary exploitation, and kernel fuzzing, with a heavy focus on the Linux kernel. 
+**Yahya Toubali** is a security Researcher, and Technical Author based in Casablanca, Morocco. He is the founder of **Nadicorp Ltd** and specializes in Linux kernel security, binary exploitation, low-level systems engineering, and AI-driven automated fuzzing. 
 
-On the Internet, I am the founder of Nadicorp Ltd, where I build tools and research infrastructure at the intersection of security and automation. Currently, I'm working on **CrashWise** (an autonomous AI platform for fuzzing and crash triage).
-
-You can find me at:
-* [Website](https://yahyatoubali.me)
-* [X / Twitter](https://x.com/YahyaToubali)
-* [LinkedIn](https://www.linkedin.com/in/YahyaToubali)
-* [GitHub](https://github.com/yahyatoubali)
+He is the author of the technical book ***Zero to Zero-Day: The Complete Course in Vulnerability Research***.
 
 ---
 
-## Tools & skills
+## Primary Projects & Works
 
-I enjoy using and working on:
-* **Linux** and anything related to low-level systems (Kernel internals, fuzzing, memory management)
-* **C / C++** and **Rust**
-* **IDA Pro** or **Ghidra** for deep reverse engineering
-* **Fuzzing tools**: libFuzzer, AFL++, and static analysis tools like Smatch
-
-On a daily basis, I use **Arch Linux** with **Hyprland** as my compositor.
+* **CrashWise**: Founder & Lead Engineer – Autonomous AI platform for vulnerability fuzzing and crash triage built with Temporal and LangGraph.
+* **Nadicorp Ltd**: Founder – Software research and security technology organization.
+* **TeleVault**: Developer – Encrypted storage CLI tool utilizing Telegram cloud backends.
+* **Brain Hub**: Creator – Cognitive training suite focused on spatial memory, pattern recognition, and neuroplasticity.
 
 ---
 
-## Hobbies
+## Technical Specialties & Tooling
 
-* **Low-level security research** & digging into kernel bug hunting
-* **Cognitive training** & tracking brain hacking protocols (currently building Brain Hub v2 to optimize spatial memory and pattern recognition)
-* **Tactical gaming** (CS2, Valorant, Rainbow Six Siege) & mastering **FC 26**
-* **Learning & Language Acquisition** (deep diving into Russian language and culture)
+* **Core Competencies**: Linux Kernel Internals, Memory Corruption, Reverse Engineering, Static Analysis, Vulnerability Research.
+* **Languages**: C, C++, Rust, Python, Go, Dart, Assembly.
+* **Security & Research Tools**: Ghidra, IDA Pro, AFL++, libFuzzer, Honggfuzz, Smatch, Frida.
+* **Environment**: Arch Linux, Hyprland, Neovim, VS Code.
+
+---
+
+## Canonical Profiles & Web Footprint
+
+* **Official Website**: [yahyatoubali.me](https://yahyatoubali.me)
+* **GitHub**: [github.com/yahyatoubali](https://github.com/yahyatoubali)
+* **X / Twitter**: [@YahyaToubali](https://x.com/YahyaToubali)
+* **LinkedIn**: [Yahya Toubali](https://www.linkedin.com/in/YahyaToubali)
+
+---
+
+## Research Interests & Acquisition
+
+* **Language Acquisition**: Conversational Russian language and cultural studies.
+* **Cognitive Optimization**: Anzan mental arithmetic, visual tracking drills, and spatial memory training.
+* **Tactical Simulation**: Competitive gaming in Counter-Strike 2, Rainbow Six Siege, and FC 26.
