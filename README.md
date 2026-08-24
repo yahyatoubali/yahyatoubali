@@ -19,7 +19,7 @@
 
 # Yahya Toubali
 
-**Yahya Toubali** is a security Researcher, and Technical Author based in Casablanca, Morocco. He is the founder of **Nadicorp Ltd** and specializes in Linux kernel security, binary exploitation, low-level systems engineering, and AI-driven automated fuzzing. 
+**Yahya Toubali** is a Security Researcher, and Technical Author based in Casablanca, Morocco. He is the founder of **Nadicorp Ltd** and specializes in Linux kernel security, binary exploitation, low-level systems engineering, and AI-driven automated fuzzing. 
 
 He is the author of the technical book ***Zero to Zero-Day: The Complete Course in Vulnerability Research***.
 
