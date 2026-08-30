@@ -38,7 +38,7 @@ He is the author of the technical book ***Zero to Zero-Day: The Complete Course 
 
 * **Core Competencies**: Linux Kernel Internals, Memory Corruption, Reverse Engineering, Static Analysis, Vulnerability Research.
 * **Languages**: C, C++, Rust, Python, Go, Dart, Assembly.
-* **Security & Research Tools**: Ghidra, IDA Pro, AFL++, libFuzzer, Honggfuzz, Smatch, Frida.
+* **Security & Research Tools**: Ghidra, IDA Pro, AFL++, libFuzzer, Honggfuzz, Frida.
 * **Environment**: Arch Linux, Hyprland, Neovim, VS Code.
 
 ---
